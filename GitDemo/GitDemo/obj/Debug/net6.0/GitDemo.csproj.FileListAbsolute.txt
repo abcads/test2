@@ -1,0 +1,14 @@
+E:\Test\GitDemo\GitDemo\GitDemo\bin\Debug\net6.0\GitDemo.exe
+E:\Test\GitDemo\GitDemo\GitDemo\bin\Debug\net6.0\GitDemo.deps.json
+E:\Test\GitDemo\GitDemo\GitDemo\bin\Debug\net6.0\GitDemo.runtimeconfig.json
+E:\Test\GitDemo\GitDemo\GitDemo\bin\Debug\net6.0\GitDemo.dll
+E:\Test\GitDemo\GitDemo\GitDemo\bin\Debug\net6.0\GitDemo.pdb
+E:\Test\GitDemo\GitDemo\GitDemo\obj\Debug\net6.0\GitDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Test\GitDemo\GitDemo\GitDemo\obj\Debug\net6.0\GitDemo.AssemblyInfoInputs.cache
+E:\Test\GitDemo\GitDemo\GitDemo\obj\Debug\net6.0\GitDemo.AssemblyInfo.cs
+E:\Test\GitDemo\GitDemo\GitDemo\obj\Debug\net6.0\GitDemo.csproj.CoreCompileInputs.cache
+E:\Test\GitDemo\GitDemo\GitDemo\obj\Debug\net6.0\GitDemo.dll
+E:\Test\GitDemo\GitDemo\GitDemo\obj\Debug\net6.0\refint\GitDemo.dll
+E:\Test\GitDemo\GitDemo\GitDemo\obj\Debug\net6.0\GitDemo.pdb
+E:\Test\GitDemo\GitDemo\GitDemo\obj\Debug\net6.0\GitDemo.genruntimeconfig.cache
+E:\Test\GitDemo\GitDemo\GitDemo\obj\Debug\net6.0\ref\GitDemo.dll
